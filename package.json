@@ -1,0 +1,18 @@
+{
+  "name": "testium-multibyte-bug",
+  "version": "1.0.0",
+  "description": "testium can not handle multi byte chars.",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server",
+    "test": "mocha test/"
+  },
+  "author": "azu",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.7.4",
+    "mocha": "^2.1.0",
+    "phantomjs": "^1.9.13",
+    "testium": "^2.3.0"
+  }
+}
