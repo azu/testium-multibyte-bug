@@ -1,5 +1,7 @@
 # testium-multibyte-bug
 
+Issue: [doesn&#39;t deal with multibyte unicode characters · Issue #124 · groupon-testium/testium](https://github.com/groupon-testium/testium/issues/124 "doesn&#39;t deal with multibyte unicode characters · Issue #124 · groupon-testium/testium")
+
 [testium](https://github.com/groupon-testium/testium "testium") does not deal with multibyte unicode characters.
 
 ![img](http://monosnap.com/image/SXcLWmGMbUCBqIUZnSkVKr4kZe6ptY.png)
